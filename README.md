@@ -63,6 +63,12 @@
 - [fatedier/frp](https://github.com/fatedier/frp) A fast reverse proxy to help you expose a local server behind a NAT or firewall to the internet.
 
 
+
+# 量化平台
+- [vnpy/vnpy](https://github.com/vnpy/vnpy) 基于python的开源量化交易平台开发框架 http://www.vnpy.org
+
+
+
 # 学习
 - [goldendict/goldendict](https://github.com/goldendict/goldendict) 字典
 - [byoungd/English-level-up-tips-for-Chinese](https://github.com/byoungd/English-level-up-tips-for-Chinese) 可能是让你受益匪浅的英语进阶指南
