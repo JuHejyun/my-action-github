@@ -13,8 +13,11 @@
 - [geeeeeeeeek/WeChatLuckyMoney](https://github.com/geeeeeeeeek/WeChatLuckyMoney) money_with_wings WeChat's lucky money helper (微信抢红包插件) by Zhongyi Tong. An Android app that helps you snatch red packets in WeChat groups.
 - [dianping/cat](https://github.com/dianping/cat) CAT基于Java开发的实时应用监控平台，包括实时应用监控，业务监控
 - [knightliao/disconf](https://github.com/knightliao/disconf) Distributed Configuration Management Platform(分布式配置管理平台) http://disconf.readthedocs.io/
+- [mauersu/redis-admin](https://github.com/mauersu/redis-admin) redis client tool,redis web client,redis web ui redis 管理平台
+- [yugandhargangu/JspMyAdmin2](https://github.com/yugandhargangu/JspMyAdmin2) JspMyAdmin 2 - A Java Web tool for MySql database administration mysql 管理平台
 - [littlecodersh/ItChat](https://github.com/littlecodersh/ItChat) A complete and graceful API for Wechat. 微信个人号接口、微信机器人及命令行微信，三十行即可自定义个人号机器人。
 - [Urinx/WeixinBot](https://github.com/Urinx/WeixinBot) 网页版微信API，包含终端版微信及微信机器人
+- [bitdust/Douban2Piratebay](https://github.com/bitdust/Douban2Piratebay) 在豆瓣电影页面里添加一个指向海盗湾的链接
 - [shokai/theta-viewer.js](https://github.com/shokai/theta-viewer.js) 360全景
 - [comdan66/ThetaS](https://github.com/comdan66/ThetaS) 搭配 Ricoh Theta S 記錄環景、全景、360度、小星球(Stereographics Projection) 的個人全景相簿！
 
@@ -26,6 +29,7 @@
 # 小工具
 - [winterbang/css_init](https://github.com/winterbang/css_init) 一些关于css初始化的代码
 - [Bilibili/flv.js](https://github.com/Bilibili/flv.js) b站播放器HTML5 FLV Player
+- [amsun10/MP4ba](https://github.com/amsun10/MP4ba) 一个自动搜索并下载MP4ba站点上种子的工具
 
 
 # 互联网安全
