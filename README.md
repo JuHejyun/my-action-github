@@ -30,6 +30,7 @@
 - [winterbang/css_init](https://github.com/winterbang/css_init) 一些关于css初始化的代码
 - [Bilibili/flv.js](https://github.com/Bilibili/flv.js) b站播放器HTML5 FLV Player
 - [amsun10/MP4ba](https://github.com/amsun10/MP4ba) 一个自动搜索并下载MP4ba站点上种子的工具
+- [Dreamroute/locker](https://github.com/Dreamroute/locker) mybatis乐观锁插件,MyBatis Optimistic Locker Plugin
 
 
 # 互联网安全
@@ -69,5 +70,6 @@
 - [CN-Chrome-DevTools/CN-Chrome-DevTools](https://github.com/CN-Chrome-DevTools/CN-Chrome-DevTools) Chrome开发者工具中文手册
 - [zhangyaowu/CN-Chrome-DevTools](https://github.com/zhangyaowu/CN-Chrome-DevTools) Chrome开发者工具中文手册
 - [houshanren/hangzhou_house_knowledge](https://github.com/houshanren/hangzhou_house_knowledge) 2017年买房经历总结出来的买房购房知识分享给大家，希望对大家有所帮助。买房不易，且买且珍惜。Sharing the knowledge of buy an own house that according to the experience at hangzhou in 2017 to all the people. It's not easy to buy a own house, so I hope that it would be useful to everyone.
+- [wjpdeveloper/my-action-github](https://github.com/wjpdeveloper/my-action-github) 此处列出我关于 github 的使用实践及我发现的觉得不错的资源。
 
 
