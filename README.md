@@ -5,6 +5,7 @@
 - [symless/synergy-core](https://github.com/symless/synergy-core) 鼠标共享
 - [HaoFeiWang/MessageRelayer](https://github.com/HaoFeiWang/MessageRelayer) 短信转发工具
 - [tisyang / kaos](https://github.com/tisyang/kaos) 谷歌拼音输入法颜文字扩展
+- [yakumioto/YaHei-Consolas-Hybrid-1.12](https://github.com/yakumioto/YaHei-Consolas-Hybrid-1.12) YaHei Consolas Hybrid 1.12 字体
 
 # 有意思的项目
 - [geeeeeeeeek/WeChatLuckyMoney](https://github.com/geeeeeeeeek/WeChatLuckyMoney) money_with_wings WeChat's lucky money helper (微信抢红包插件) by Zhongyi Tong. An Android app that helps you snatch red packets in WeChat groups.
@@ -18,6 +19,8 @@
 - [tennc/webshell](https://github.com/tennc/webshell) webshell 这是一个webshell收集项目
 - [hanc00l/wooyun_public](https://github.com/hanc00l/wooyun_public) 乌云公开漏洞、知识库爬虫和搜索 crawl and search for wooyun.org public bug(vulnerability) and drops http://www.wooyun.org
 - [We5ter/Scanners-Box](https://github.com/We5ter/Scanners-Box) The toolbox of open source scanners - 安全行业从业者自研开源扫描器合辑
+- [Chora10/Cknife](https://github.com/Chora10/Cknife) Cknife http://www.ms509.com
+- [firesunCN/BlueLotus_XSSReceiver](https://github.com/firesunCN/BlueLotus_XSSReceiver) XSS平台 CTF工具 Web安全工具
 
 # mac开源软件问题合集
 - [serhii-londar/open-source-mac-os-apps](https://github.com/serhii-londar/open-source-mac-os-apps) rocket Awesome list of open source applications for macOS.
@@ -31,6 +34,7 @@
 - [shadowsocks / shadowsocks-windows](https://github.com/shadowsocks/shadowsocks-windows) shadowsocks代理windows客户端
 - [racaljk/hosts](https://github.com/racaljk/hosts) 最新可用的google hosts文件。国内镜像 https://coding.net/u/scaffrey/p/hosts/git
 - [gfwlist/gfwlist](https://github.com/gfwlist/gfwlist) The one and only one gfwlist here
+- [out0fmemory/GoAgent-Always-Available](https://github.com/out0fmemory/GoAgent-Always-Available) 一直可用的GoAgent，会定时扫描可用的google gae ip，提供可自动化获取ip运行的版本
 
 
 # 内网穿透
