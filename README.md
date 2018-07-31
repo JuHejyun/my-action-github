@@ -6,6 +6,8 @@
 - [HaoFeiWang/MessageRelayer](https://github.com/HaoFeiWang/MessageRelayer) 短信转发工具
 - [tisyang / kaos](https://github.com/tisyang/kaos) 谷歌拼音输入法颜文字扩展
 - [yakumioto/YaHei-Consolas-Hybrid-1.12](https://github.com/yakumioto/YaHei-Consolas-Hybrid-1.12) YaHei Consolas Hybrid 1.12 字体
+- [Mapaler/FastCopy-M](https://github.com/Mapaler/FastCopy-M) FastCopy-Multilanguage，FastCopy完整支持多国语言版 http://mapaler.github.io/FastCopy-M/
+- [0xE8551CCB/ms-rdp-nat-traverse](https://github.com/0xE8551CCB/ms-rdp-nat-traverse) 微软远程桌面内网穿透助手。 
 
 # 有意思的项目
 - [geeeeeeeeek/WeChatLuckyMoney](https://github.com/geeeeeeeeek/WeChatLuckyMoney) money_with_wings WeChat's lucky money helper (微信抢红包插件) by Zhongyi Tong. An Android app that helps you snatch red packets in WeChat groups.
@@ -14,10 +16,20 @@
 - [littlecodersh/ItChat](https://github.com/littlecodersh/ItChat) A complete and graceful API for Wechat. 微信个人号接口、微信机器人及命令行微信，三十行即可自定义个人号机器人。
 - [Urinx/WeixinBot](https://github.com/Urinx/WeixinBot) 网页版微信API，包含终端版微信及微信机器人
 
+# 北京医院挂号
+- [iBreaker/bjguahao](https://github.com/iBreaker/bjguahao) 北京市预约挂号统一平台挂号小助手
+- [iBreaker/bjguahao](https://github.com/iBreaker/bjguahao) 北京市预约挂号统一平台挂号小助手
+
+
+
+
+
 # 互联网安全
 - [zaproxy/zaproxy](https://github.com/zaproxy/zaproxy) The OWASP ZAP core project
 - [tennc/webshell](https://github.com/tennc/webshell) webshell 这是一个webshell收集项目
 - [hanc00l/wooyun_public](https://github.com/hanc00l/wooyun_public) 乌云公开漏洞、知识库爬虫和搜索 crawl and search for wooyun.org public bug(vulnerability) and drops http://www.wooyun.org
+- [jiji262/wooyun_articles](https://github.com/jiji262/wooyun_articles) drops.wooyun.org 乌云Drops文章备份 https://wooyun.js.org/
+- [grt1st/wooyun_search](https://github.com/grt1st/wooyun_search) 乌云公开漏洞、知识库搜索 search from wooyun.org
 - [We5ter/Scanners-Box](https://github.com/We5ter/Scanners-Box) The toolbox of open source scanners - 安全行业从业者自研开源扫描器合辑
 - [Chora10/Cknife](https://github.com/Chora10/Cknife) Cknife http://www.ms509.com
 - [firesunCN/BlueLotus_XSSReceiver](https://github.com/firesunCN/BlueLotus_XSSReceiver) XSS平台 CTF工具 Web安全工具
@@ -47,6 +59,7 @@
 - [byoungd/English-level-up-tips-for-Chinese](https://github.com/byoungd/English-level-up-tips-for-Chinese) 可能是让你受益匪浅的英语进阶指南
 - [fouber/blog](https://github.com/fouber/blog) 张云龙 个人博客
 - [CN-Chrome-DevTools/CN-Chrome-DevTools](https://github.com/CN-Chrome-DevTools/CN-Chrome-DevTools) Chrome开发者工具中文手册
+- [zhangyaowu/CN-Chrome-DevTools](https://github.com/zhangyaowu/CN-Chrome-DevTools) Chrome开发者工具中文手册
 - [houshanren/hangzhou_house_knowledge](https://github.com/houshanren/hangzhou_house_knowledge) 2017年买房经历总结出来的买房购房知识分享给大家，希望对大家有所帮助。买房不易，且买且珍惜。Sharing the knowledge of buy an own house that according to the experience at hangzhou in 2017 to all the people. It's not easy to buy a own house, so I hope that it would be useful to everyone.
 
 
