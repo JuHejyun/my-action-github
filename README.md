@@ -15,10 +15,12 @@
 - [knightliao/disconf](https://github.com/knightliao/disconf) Distributed Configuration Management Platform(分布式配置管理平台) http://disconf.readthedocs.io/
 - [littlecodersh/ItChat](https://github.com/littlecodersh/ItChat) A complete and graceful API for Wechat. 微信个人号接口、微信机器人及命令行微信，三十行即可自定义个人号机器人。
 - [Urinx/WeixinBot](https://github.com/Urinx/WeixinBot) 网页版微信API，包含终端版微信及微信机器人
+- [shokai/theta-viewer.js](https://github.com/shokai/theta-viewer.js) 360全景
+- [comdan66/ThetaS](https://github.com/comdan66/ThetaS) 搭配 Ricoh Theta S 記錄環景、全景、360度、小星球(Stereographics Projection) 的個人全景相簿！
 
 # 北京医院挂号
 - [iBreaker/bjguahao](https://github.com/iBreaker/bjguahao) 北京市预约挂号统一平台挂号小助手
-- [iBreaker/bjguahao](https://github.com/iBreaker/bjguahao) 北京市预约挂号统一平台挂号小助手
+- [wzhvictor/bjguahao](https://github.com/wzhvictor/bjguahao) 北京市预约挂号统一平台脚本(Python3)
 
 
 
