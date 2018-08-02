@@ -8,6 +8,7 @@
 - [yakumioto/YaHei-Consolas-Hybrid-1.12](https://github.com/yakumioto/YaHei-Consolas-Hybrid-1.12) YaHei Consolas Hybrid 1.12 字体
 - [Mapaler/FastCopy-M](https://github.com/Mapaler/FastCopy-M) FastCopy-Multilanguage，FastCopy完整支持多国语言版 http://mapaler.github.io/FastCopy-M/
 - [0xE8551CCB/ms-rdp-nat-traverse](https://github.com/0xE8551CCB/ms-rdp-nat-traverse) 微软远程桌面内网穿透助手。 
+- [myoss/profile](https://github.com/myoss/profile) Mybatis Plugin插件安装破解及使用,https://blog.csdn.net/u011410529/article/details/54098067
 
 # 有意思的项目
 - [geeeeeeeeek/WeChatLuckyMoney](https://github.com/geeeeeeeeek/WeChatLuckyMoney) money_with_wings WeChat's lucky money helper (微信抢红包插件) by Zhongyi Tong. An Android app that helps you snatch red packets in WeChat groups.
