@@ -4,6 +4,9 @@
 - [cute/SketchI18N](https://github.com/cute/SketchI18N) SketchI18N语言插件
 - [symless/synergy-core](https://github.com/symless/synergy-core) 鼠标共享
 - [HaoFeiWang/MessageRelayer](https://github.com/HaoFeiWang/MessageRelayer) 短信转发工具
+- [mrqyoung/SMS302](https://github.com/mrqyoung/SMS302) 短信或者来电转发到 Email
+- [jiang111/ReSend-SMS](https://github.com/jiang111/ReSend-SMS) 将手机接收到的短信以邮件的形式发送至指定邮箱
+- [lyymoo/smstrans](https://github.com/lyymoo/smstrans) android4.0+上转发一个手机号码收到的短信到另一个号码上的app
 - [tisyang / kaos](https://github.com/tisyang/kaos) 谷歌拼音输入法颜文字扩展
 - [yakumioto/YaHei-Consolas-Hybrid-1.12](https://github.com/yakumioto/YaHei-Consolas-Hybrid-1.12) YaHei Consolas Hybrid 1.12 字体
 - [Mapaler/FastCopy-M](https://github.com/Mapaler/FastCopy-M) FastCopy-Multilanguage，FastCopy完整支持多国语言版 http://mapaler.github.io/FastCopy-M/
