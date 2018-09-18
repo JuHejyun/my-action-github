@@ -26,7 +26,7 @@ https://www.finviz.com/screener.ashx?v=110&s=n_upgrades
 - [V,ADBE,UPS,FDX,AMZN,PLAY,ROKU,DIS,WMT,MMM,ADSK](https://stockcharts.com/freecharts/candleglance.html?V,ADBE,UPS,FDX,AMZN,PLAY,ROKU,DIS,WMT,MMM,ADSK|B|C20|)
 
 ## next week
-- [AAL,ALB,XOXL](https://stockcharts.com/freecharts/candleglance.html?AAL,ALB,XOXL|B|C20|)
+- [AAL,ALB,SOXL](https://stockcharts.com/freecharts/candleglance.html?AAL,ALB,SOXL|B|C20|)
 
 
 
