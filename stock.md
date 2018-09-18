@@ -27,7 +27,7 @@ https://www.finviz.com/screener.ashx?v=110&s=n_upgrades
 
 ## next week
 - [AAL,ALB,SOXL](https://stockcharts.com/freecharts/candleglance.html?AAL,ALB,SOXL|B|C20|)
-
+- https://stockcharts.com/freecharts/candleglance.html?AAL,ALB,SOXL|B|C20|
 
 
 ## 美股赢家
