@@ -27,9 +27,9 @@ https://www.finviz.com/screener.ashx?v=110&s=n_upgrades
 
 # 关注列表
 ## 关注的股票
-- AAL,SHOP,NFLX,AAPL,TCEHY,MSFT,IBKR,RNG,TWTR,TLRY,SPN,PEN
+- AAL,SHOP,NFLX,AAPL,TCEHY,MSFT,IBKR,RNG,TWTR,SPN,PEN
 
-      https://stockcharts.com/freecharts/candleglance.html?AAL,SHOP,NFLX,AAPL,TCEHY,MSFT,IBKR,RNG,TWTR,TLRY,SPN,PEN|B|C20|
+      https://stockcharts.com/freecharts/candleglance.html?AAL,SHOP,NFLX,AAPL,TCEHY,MSFT,IBKR,RNG,TWTR,SPN,PEN|B|C20|
 
 - T,AMD,ATMT,MU,INTC,AMAT,BA,LMT,OKTA,EA,ATVI,COST
 
@@ -38,6 +38,9 @@ https://www.finviz.com/screener.ashx?v=110&s=n_upgrades
 - V,ADBE,UPS,FDX,AMZN,PLAY,ROKU,DIS,WMT,MMM,ADSK
 
       https://stockcharts.com/freecharts/candleglance.html?V,ADBE,UPS,FDX,AMZN,PLAY,ROKU,DIS,WMT,MMM,ADSK|B|C20|
+      
+-- TLRY,CRON,CGC,ACBFF
+      https://stockcharts.com/freecharts/candleglance.html?TLRY,CRON,CGC,ACBFF|B|C20|
 
 ## next week
 - AAL,ALB,SOXL,FTR
