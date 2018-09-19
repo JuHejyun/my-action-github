@@ -38,8 +38,8 @@ https://www.finviz.com/screener.ashx?v=110&s=n_upgrades
 - V,ADBE,UPS,FDX,AMZN,PLAY,ROKU,DIS,WMT,MMM,ADSK
 
       https://stockcharts.com/freecharts/candleglance.html?V,ADBE,UPS,FDX,AMZN,PLAY,ROKU,DIS,WMT,MMM,ADSK|B|C20|
-      
--- TLRY,CRON,CGC,ACBFF
+
+- TLRY,CRON,CGC,ACBFF
 
       https://stockcharts.com/freecharts/candleglance.html?TLRY,CRON,CGC,ACBFF|B|C20|
 
