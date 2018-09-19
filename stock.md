@@ -7,6 +7,7 @@
 
 ## 黄金石油天然气恐慌黑天鹅
 - $GOLD,$WTIC,$NATGAS,$VIX,$USD,$SKEW,$NYMO,$NAMO
+
       https://stockcharts.com/freecharts/candleglance.html?$GOLD,$WTIC,$NATGAS,$VIX,$USD,$SKEW,$NYMO,$NAMO|B|C20|
 
 ## 房地产
