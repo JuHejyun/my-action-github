@@ -53,3 +53,8 @@ https://www.finviz.com/screener.ashx?v=110&s=n_upgrades
 - HCP,ETP,PLNT,AMRS,TRXC,RIG,CCK,TCP,AMRS,RIG,UPL,FTR,PBR,NIO
 
       https://stockcharts.com/freecharts/candleglance.html?HCP,ETP,PLNT,AMRS,TRXC,RIG,CCK,TCP,AMRS,RIG,UPL,FTR,PBR,NIO|B|C20|
+
+## Joseph Ma
+- MU,TNDM,BLCM,UGAZ
+
+      https://stockcharts.com/freecharts/candleglance.html?MU,TNDM,BLCM,UGAZ|B|C20|
