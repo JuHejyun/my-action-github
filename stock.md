@@ -50,6 +50,6 @@ https://www.finviz.com/screener.ashx?v=110&s=n_upgrades
 
 
 ## 美股赢家
-- HCP,ETP,PLNT,AMRS,TRXC,RIG,CCK,TCP
+- HCP,ETP,PLNT,AMRS,TRXC,RIG,CCK,TCP,AMRS,RIG,UPL,FTR,PBR,NIO
 
-      https://stockcharts.com/freecharts/candleglance.html?HCP,ETP,PLNT,AMRS,TRXC,RIG,CCK,TCP|B|C20|
+      https://stockcharts.com/freecharts/candleglance.html?HCP,ETP,PLNT,AMRS,TRXC,RIG,CCK,TCP,AMRS,RIG,UPL,FTR,PBR,NIO|B|C20|
