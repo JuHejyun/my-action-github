@@ -59,7 +59,7 @@ https://www.finviz.com/screener.ashx?v=110&s=n_upgrades
 
       https://stockcharts.com/freecharts/candleglance.html?MU,TNDM,BLCM,UGAZ|B|C20|
 
-##肥婆
+## 肥婆
 - XLF,BHF,AAL,FTR,TECK,ASHR,FXI,KWEB,RLGY,YRD
 
       https://stockcharts.com/freecharts/candleglance.html?XLF,BHF,AAL,FTR,TECK,ASHR,FXI,KWEB,RLGY,YRD|B|C20|
