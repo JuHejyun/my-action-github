@@ -55,9 +55,9 @@ https://www.finviz.com/screener.ashx?v=110&s=n_upgrades
       https://stockcharts.com/freecharts/candleglance.html?HCP,ETP,PLNT,AMRS,TRXC,RIG,CCK,TCP,AMRS,RIG,UPL,FTR,PBR,NIO,CRC,ESV,CRZO|B|C20|
 
 ## Joseph Ma
-- UGAZ,DGAZ,CY,BABA,PXS,UPS,DRIP,WTI
+- UGAZ,DGAZ,CY,BABA,PXS,UPS,DRIP,WTI,RHT,NOW
 
-      https://stockcharts.com/freecharts/candleglance.html?UGAZ,DGAZ,CY,BABA,PXS,UPS,DRIP,WTI|B|C20|
+      https://stockcharts.com/freecharts/candleglance.html?UGAZ,DGAZ,CY,BABA,PXS,UPS,DRIP,WTI,RHT,NOW|B|C20|
 
 ## 肥婆
 - XLF,BHF,AAL,FTR,TECK,ASHR,FXI,KWEB,RLGY,YRD
