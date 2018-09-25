@@ -63,3 +63,8 @@ https://www.finviz.com/screener.ashx?v=110&s=n_upgrades
 - XLF,BHF,AAL,FTR,TECK,ASHR,FXI,KWEB,RLGY,YRD
 
       https://stockcharts.com/freecharts/candleglance.html?XLF,BHF,AAL,FTR,TECK,ASHR,FXI,KWEB,RLGY,YRD|B|C20|
+      
+## huanxiangxr_21
+- GRUB,SQ,DDD,MCD,DIS,BA,FB,BABA,AMRN,XOM,INTC,TWTR
+
+      https://stockcharts.com/freecharts/candleglance.html?GRUB,SQ,DDD,MCD,DIS,BA,FB,BABA,AMRN,XOM,INTC,TWTR|B|C20|
