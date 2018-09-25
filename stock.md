@@ -50,9 +50,9 @@ https://www.finviz.com/screener.ashx?v=110&s=n_upgrades
 
 
 ## 美股赢家
-- HCP,ETP,PLNT,AMRS,TRXC,RIG,CCK,TCP,AMRS,RIG,UPL,FTR,PBR,NIO
+- HCP,ETP,PLNT,AMRS,TRXC,RIG,CCK,TCP,AMRS,RIG,UPL,FTR,PBR,NIO,CRC,ESV,CRZO
 
-      https://stockcharts.com/freecharts/candleglance.html?HCP,ETP,PLNT,AMRS,TRXC,RIG,CCK,TCP,AMRS,RIG,UPL,FTR,PBR,NIO|B|C20|
+      https://stockcharts.com/freecharts/candleglance.html?HCP,ETP,PLNT,AMRS,TRXC,RIG,CCK,TCP,AMRS,RIG,UPL,FTR,PBR,NIO,CRC,ESV,CRZO|B|C20|
 
 ## Joseph Ma
 - MU,TNDM,BLCM,UGAZ
