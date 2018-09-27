@@ -43,12 +43,6 @@
 
       https://stockcharts.com/freecharts/candleglance.html?TLRY,CRON,CGC,ACBFF|B|C20|
 
-## next week
-- AAL,ALB,SOXL,FTR
-
-      https://stockcharts.com/freecharts/candleglance.html?AAL,ALB,SOXL,FTR|B|C20|
-
-
 ## 美股赢家
 - HCP,ETP,PLNT,AMRS,TRXC,RIG,CCK,TCP,AMRS,RIG,UPL,FTR,PBR,NIO,CRC,ESV,CRZO
 
