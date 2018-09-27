@@ -16,13 +16,13 @@
       https://stockcharts.com/freecharts/candleglance.html?$$HSNGSTARTS,$$HPI,$SSEC|B|C20|
 
 ## 被升级的股票
-https://www.finviz.com/screener.ashx?v=110&s=n_upgrades
+      https://www.finviz.com/screener.ashx?v=110&s=n_upgrades
 
 
 # 持仓
-- WB,QCOM,WYNN,JD,OSTK,TECK,FB,XLF,ETP
+- WB,QCOM,WYNN,JD,TECK,FB,XLF,ETP
 
-      https://stockcharts.com/freecharts/candleglance.html?WB,QCOM,WYNN,JD,OSTK,TECK,FB,XLF,ETP|B|C20|
+      https://stockcharts.com/freecharts/candleglance.html?WB,QCOM,WYNN,JD,TECK,FB,XLF,ETP|B|C20|
 
 
 # 关注列表
