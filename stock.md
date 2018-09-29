@@ -20,9 +20,9 @@
 
 
 # 持仓
-- WB,QCOM,WYNN,JD,TECK,FB,XLF,ETP
+- WB,QCOM,WYNN,JD,TECK,FB,ETP
 
-      https://stockcharts.com/freecharts/candleglance.html?WB,QCOM,WYNN,JD,TECK,FB,XLF,ETP|B|C20|
+      https://stockcharts.com/freecharts/candleglance.html?WB,QCOM,WYNN,JD,TECK,FB,ETP|B|C20|
 
 
 # 关注列表
