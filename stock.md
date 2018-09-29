@@ -62,3 +62,8 @@
 - GRUB,SQ,DDD,MCD,DIS,BA,FB,BABA,AMRN,XOM,INTC,TWTR
 
       https://stockcharts.com/freecharts/candleglance.html?GRUB,SQ,DDD,MCD,DIS,BA,FB,BABA,AMRN,XOM,INTC,TWTR|B|C20|
+      
+## 摩根
+- ISRG,A,MA,V,NFLX,LMT,AMZN
+
+      https://stockcharts.com/freecharts/candleglance.html?ISRG,A,MA,V,NFLX,LMT,AMZN|B|C20|
