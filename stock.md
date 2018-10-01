@@ -49,9 +49,9 @@
       https://stockcharts.com/freecharts/candleglance.html?HCP,ETP,PLNT,AMRS,TRXC,RIG,CCK,TCP,AMRS,RIG,UPL,FTR,PBR,NIO,CRC,ESV,CRZO|B|C20|
 
 ## Joseph Ma
-- UGAZ,DGAZ,CY,BABA,PXS,UPS,DRIP,WTI,RHT,NOW
+- DGAZ,NTES,HRTX,CY,TNDM,WMT,BABA,DRIP,FB,UGAZ
 
-      https://stockcharts.com/freecharts/candleglance.html?UGAZ,DGAZ,CY,BABA,PXS,UPS,DRIP,WTI,RHT,NOW|B|C20|
+      https://stockcharts.com/freecharts/candleglance.html?DGAZ,NTES,HRTX,CY,TNDM,WMT,BABA,DRIP,FB,UGAZ|B|C20|
 
 ## 肥婆
 - XLF,BHF,AAL,FTR,TECK,ASHR,FXI,KWEB,RLGY,YRD
