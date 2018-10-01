@@ -54,9 +54,9 @@
       https://stockcharts.com/freecharts/candleglance.html?DGAZ,NTES,HRTX,CY,TNDM,WMT,BABA,DRIP,FB,UGAZ|B|C20|
 
 ## 肥婆
-- XLF,BHF,AAL,FTR,TECK,ASHR,FXI,KWEB,RLGY,YRD
+- XLF,BHF,AAL,FTR,TECK,ASHR,FXI,KWEB,RLGY,SGMO,CMCSA
 
-      https://stockcharts.com/freecharts/candleglance.html?XLF,BHF,AAL,FTR,TECK,ASHR,FXI,KWEB,RLGY,YRD|B|C20|
+      https://stockcharts.com/freecharts/candleglance.html?XLF,BHF,AAL,FTR,TECK,ASHR,FXI,KWEB,RLGY,SGMO,CMCSA|B|C20|
       
 ## huanxiangxr_21
 - GRUB,SQ,DDD,MCD,DIS,BA,FB,BABA,AMRN,XOM,INTC,TWTR
