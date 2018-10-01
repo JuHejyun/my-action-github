@@ -22,7 +22,7 @@
 ## 黄金石油天然气恐慌黑天鹅
 - $GOLD,$WTIC,$NATGAS,$VIX,$USD,$SKEW,$NYMO,$NAMO
 
-      https://stockcharts.com/freecharts/candleglance.html?$GOLD,$WTIC,$NATGAS,$VIX,$USD,$SKEW,$NYMO,$NAMO|B|C20|
+      https://stockcharts.com/freecharts/candleglance.html?$GOLD,$WTIC,$NATGAS,$VIX,$USD,$SKEW,$NYMO,$NAMO|B|C20|0
 
 # 持仓
 - WB,QCOM,WYNN,JD,TECK,FB,ETP
