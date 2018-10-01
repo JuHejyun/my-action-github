@@ -67,3 +67,9 @@
 - ISRG,A,MA,V,NFLX,LMT,AMZN
 
       https://stockcharts.com/freecharts/candleglance.html?ISRG,A,MA,V,NFLX,LMT,AMZN|B|C20|
+      
+## 虫虫
+- NVDA,AMZN,NFLX,BA,LRCX,SQ,FB,TSLA,ALXN,AVGO,BIIB,CERN,DIS
+
+      https://stockcharts.com/freecharts/candleglance.html?NVDA,AMZN,NFLX,BA,LRCX,SQ,FB,TSLA,ALXN,AVGO,BIIB,CERN,DIS|B|C20|
+
