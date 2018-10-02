@@ -53,9 +53,9 @@
       https://stockcharts.com/freecharts/candleglance.html?XLF,BHF,AAL,FTR,TECK,ASHR,FXI,KWEB,RLGY,SGMO,CMCSA|B|C20|
       
 ## huanxiangxr_21
-- GRUB,SQ,DDD,MCD,DIS,BA,FB,BABA,AMRN,XOM,INTC,TWTR,GE,EWZ,BA
+- GRUB,SQ,DDD,MCD,DIS,BA,AMRN,XOM,INTC,GE,EWZ,BA
 
-      https://stockcharts.com/freecharts/candleglance.html?GRUB,SQ,DDD,MCD,DIS,BA,FB,BABA,AMRN,XOM,INTC,TWTR,GE,EWZ,BA|B|C20|
+      https://stockcharts.com/freecharts/candleglance.html?GRUB,SQ,DDD,MCD,DIS,BA,AMRN,XOM,INTC,GE,EWZ,BA|B|C20|
       
 ## 摩根
 - ISRG,A,MA,V,NFLX,LMT,AMZN
