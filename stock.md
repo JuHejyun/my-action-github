@@ -63,7 +63,8 @@
       https://stockcharts.com/freecharts/candleglance.html?ISRG,A,MA,V,NFLX,LMT,AMZN|B|C20|
       
 ## 虫虫
-- NVDA,AMZN,NFLX,BA,LRCX,SQ,FB,TSLA,ALXN,AVGO,BIIB,CERN,DIS
+- NVDA,AMZN,NFLX,BA,LRCX,SQ,FB,TSLA,ALXN,AVGO,BIIB,CERN,DIS,DE,CAT,DE,JWN
 
-      https://stockcharts.com/freecharts/candleglance.html?NVDA,AMZN,NFLX,BA,LRCX,SQ,FB,TSLA,ALXN,AVGO,BIIB,CERN,DIS|B|C20|
+      https://stockcharts.com/freecharts/candleglance.html?NVDA,AMZN,NFLX,BA,LRCX,SQ,FB,TSLA,ALXN,AVGO,BIIB,CERN|B|C20|
 
+      https://stockcharts.com/freecharts/candleglance.html?DIS,DE,CAT,DE,JWN|B|C20|
