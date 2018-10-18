@@ -3,6 +3,13 @@
 ##肯特纳通道(KC)
 - [Keltner Channel](http://stockcharts.com/school/doku.php?id=chart_school:technical_indicators:keltner_channels)
 
+###参数
+
+      20<SD<120 def=20
+      2<WIDTH<20 def=2
+
+###代码
+
       TR1:MAX(MAX((HIGH-LOW),ABS(REF(CLOSE,1)-HIGH)),ABS(REF(CLOSE,1)-LOW)),COLORFF8D1E;
       ATR1:MA(TR1,SD),COLOR0CAEE6;
       
@@ -15,6 +22,13 @@
 
 ##狄马克指标(TD)
 - [Tom DeMark](https://forextraininggroup.com/introduction-tom-demark-indicators-studies/)
+
+###参数
+
+      20<SD<120 def=20
+      2<WIDTH<20 def=2
+
+###代码
 
       MA1:MA(CLOSE,P1),COLORFF8D1E;
       MA2:MA(CLOSE,P2),COLOR0CAEE6;
