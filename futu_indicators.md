@@ -5,7 +5,7 @@
 
 ###参数
 
-      20<SD<120 def=20
+      0<SD<120 def=20
       2<WIDTH<20 def=2
 
 ###代码
@@ -20,13 +20,40 @@
       LOWER2:MID-(WIDTH*ATR1),COLOR0CAEE6;
       LOWER1:MID-(2*WIDTH*ATR1),COLOR0CAEE6;
 
+
+##成交量加权平均价(VWAP)
+- [VWAP](https://forextraininggroup.com/introduction-tom-demark-indicators-studies/)
+
+###参数
+
+      0<D<20 def=20
+      2<WIDTH<20 def=2
+
+###代码
+
+      VM:=VOL*((HIGH+LOW+CLOSE)/3);
+      VWSUM:=SUM(VM,D);
+      VOLSUM:=SUM(VOL,D);
+      VWAP:VWSUM/VOLSUM,COLORLIGREEN;
+      STV:=STD(VWAP,D);
+      
+      
+      UPPER: VWAP + STV*WIDTH,COLORFFC90E;
+      LOWER: VWAP-STV*WIDTH,COLOR0CAEE6;
+
+
+
+
+
 ##狄马克指标(TD)
 - [Tom DeMark](https://forextraininggroup.com/introduction-tom-demark-indicators-studies/)
 
 ###参数
 
-      20<SD<120 def=20
-      2<WIDTH<20 def=2
+      0<P1<1000 def=5
+      0<P2<1000 def=10
+      0<P3<1000 def=20
+      0<P4<1000 def=50
 
 ###代码
 
