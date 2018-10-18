@@ -22,7 +22,7 @@
 
 
 ##成交量加权平均价(VWAP)
-- [VWAP](https://forextraininggroup.com/introduction-tom-demark-indicators-studies/)
+- [VWAP](http://stockcharts.com/school/doku.php?id=chart_school:technical_indicators:vwap_intraday)
 
 ###参数
 
