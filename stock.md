@@ -1,20 +1,21 @@
 # 每日关注
 
-## 各大板块
+## 各大交易品种
 - SPY,QQQ,IWM,DIA,GLD,USO,UNG,UUP,TLT,VXX,VXZ,FXY
 
       https://stockcharts.com/freecharts/candleglance.html?SPY,QQQ,IWM,DIA,GLD,USO,UNG,UUP,TLT,VXX,VXZ,FXY|B|C20|0
-
+      
+## 领导板块
 - XLF,XLK,XLY,XLI,XLE,XLB,XLU,XLV,XLP,IYT,XBI,SMH
 
       https://stockcharts.com/freecharts/candleglance.html?XLF,XLK,XLY,XLI,XLE,XLB,XLU,XLV,XLP,IYT,XBI,SMH|B|C20|0
 
-- XLC,VNQ,XLRE,XRT,XHB,XRE,XOP,OIH,XME,SLX,DBA,DBC
+## 次分板块
+- XLC,VNQ,XLRE,XRT,XHB,KRE,XOP,OIH,XME,SLX,DBA,DBC
 
       https://stockcharts.com/freecharts/candleglance.html?XLC,VNQ,XLRE,XRT,XHB,XRE,XOP,OIH,XME,SLX,DBA,DBC|B|C20|0
       
 ## 权重科技股
-
 - FB,AMZN,NFLX,GOOGL,AAPL,MSFT,TSLA,BA,BABA,BIDU,TSM,NVDA
 
       https://stockcharts.com/freecharts/candleglance.html?FB,AMZN,NFLX,GOOGL,AAPL,MSFT,TSLA,BA,BABA,BIDU,TSM,NVDA|B|C20|0
