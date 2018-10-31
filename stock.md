@@ -32,6 +32,15 @@
 
 
 # 关注列表
+
+
+##还在涨的股票
+
+- HCP,WMT,CMCSA,EWZ,MCD,JWN,XLP,UUP,XLU,DBA
+
+      https://stockcharts.com/freecharts/candleglance.html?HCP,WMT,CMCSA,EWZ,MCD,JWN,XLP,UUP,XLU,DBA|B|C20|
+
+
 ## 大麻
 
 - TLRY,CRON,CGC,ACBFF
