@@ -13,7 +13,7 @@
 ## 次分板块
 - XLC,VNQ,XLRE,XRT,XHB,KRE,XOP,OIH,XME,SLX,DBA,DBC
 
-      https://stockcharts.com/freecharts/candleglance.html?XLC,VNQ,XLRE,XRT,XHB,XRE,XOP,OIH,XME,SLX,DBA,DBC|B|C20|0
+      https://stockcharts.com/freecharts/candleglance.html?XLC,VNQ,XLRE,XRT,XHB,KRE,XOP,OIH,XME,SLX,DBA,DBC|B|C20|0
       
 ## 权重科技股
 - FB,AMZN,NFLX,GOOGL,AAPL,MSFT,TSLA,BA,BABA,BIDU,TSM,NVDA
