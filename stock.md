@@ -25,6 +25,15 @@
 
       https://stockcharts.com/freecharts/candleglance.html?$GOLD,$WTIC,$NATGAS,$VIX,$USD,$SKEW,$NYMO,$NAMO|B|C20|0
 
+- $NYAD,$NYHL,$NYMO,$NYSI,$NYUPV:$NYDNV,$SPXA50R,$SPXA200R,$TICK,$TRIN,$NAA50R,$NAA200R
+
+      https://stockcharts.com/freecharts/candleglance.html?$NYAD,$NYHL,$NYMO,$NYSI,$NYUPV:$NYDNV,$SPXA50R,$SPXA200R,$TICK,$TRIN,$NAA50R,$NAA200R|B|C20|0
+
+- $CPC,$CPCE,$CPCI,$VIX,$VIX:$VXV,IWM:SPY,XLY:XLP,SPHB:SPLV,IEV:SPY,EEM:SPY,SPY:TLT,$TED
+
+      https://stockcharts.com/freecharts/candleglance.html?$CPC,$CPCE,$CPCI,$VIX,$VIX:$VXV,IWM:SPY,XLY:XLP,SPHB:SPLV,IEV:SPY,EEM:SPY,SPY:TLT,$TED|B|C20|0
+
+
 # 持仓
 - WB,QCOM,WYNN,JD,TECK,FB,ETP
 
