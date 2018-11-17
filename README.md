@@ -53,6 +53,7 @@
 - [We5ter/Scanners-Box](https://github.com/We5ter/Scanners-Box) The toolbox of open source scanners - 安全行业从业者自研开源扫描器合辑
 - [Chora10/Cknife](https://github.com/Chora10/Cknife) Cknife http://www.ms509.com
 - [firesunCN/BlueLotus_XSSReceiver](https://github.com/firesunCN/BlueLotus_XSSReceiver) XSS平台 CTF工具 Web安全工具
+- [rootphantomer/Blasting_dictionary](https://github.com/rootphantomer/Blasting_dictionary) 爆破字典
 
 # mac开源软件问题合集
 - [serhii-londar/open-source-mac-os-apps](https://github.com/serhii-londar/open-source-mac-os-apps) rocket Awesome list of open source applications for macOS.
