@@ -21,9 +21,9 @@
       https://stockcharts.com/freecharts/candleglance.html?FB,AMZN,NFLX,GOOGL,AAPL,MSFT,TSLA,BA,BABA,BIDU,TSM,NVDA|B|C20|0
 
 ## 黄金石油天然气恐慌黑天鹅
-- $GOLD,$WTIC,$NATGAS,$VIX,$USD,$SKEW,$NYMO,$NAMO
+- $SPX,$COMPQ,$INDU,$RUT,$GOLD,,$USD,$WTIC,$NATGAS,$VIX,$SKEW,$NYMO,$NAMO
 
-      https://stockcharts.com/freecharts/candleglance.html?$GOLD,$WTIC,$NATGAS,$VIX,$USD,$SKEW,$NYMO,$NAMO|B|C20|0
+      https://stockcharts.com/freecharts/candleglance.html?$SPX,$COMPQ,$INDU,$RUT,$GOLD,,$USD,$WTIC,$NATGAS,$VIX,$SKEW,$NYMO,$NAMO|B|C20|0
 
 - $NYAD,$NYHL,$NYMO,$NYSI,$NYUPV:$NYDNV,$SPXA50R,$SPXA200R,$TICK,$TRIN,$NAA50R,$NAA200R
 
