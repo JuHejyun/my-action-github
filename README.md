@@ -42,6 +42,7 @@
 - [Bilibili/flv.js](https://github.com/Bilibili/flv.js) b站播放器HTML5 FLV Player
 - [amsun10/MP4ba](https://github.com/amsun10/MP4ba) 一个自动搜索并下载MP4ba站点上种子的工具
 - [Dreamroute/locker](https://github.com/Dreamroute/locker) mybatis乐观锁插件,MyBatis Optimistic Locker Plugin
+- [valentinxxx/nginxconfig.io](https://github.com/valentinxxx/nginxconfig.io)  NGiИX config generator generator on steroids
 
 
 # 互联网安全
