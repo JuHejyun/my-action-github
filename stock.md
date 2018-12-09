@@ -87,3 +87,5 @@
       https://stockcharts.com/freecharts/candleglance.html?NVDA,AMZN,NFLX,BA,LRCX,SQ,FB,TSLA,ALXN,AVGO,BIIB,CERN|B|C20|
 
       https://stockcharts.com/freecharts/candleglance.html?DIS,DE,CAT,DE,JWN|B|C20|
+
+      https://stockcharts.com/freecharts/candleglance.html?WB,ETR,UAA,SPG,RMD,REGN,REG|B|C20|
