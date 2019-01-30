@@ -1,0 +1,2 @@
+- [simonpucher/AgenaTrader](https://github.com/simonpucher/AgenaTrader) Scripts for the trading software AgenaTrader
+- [tattooday/quant-trading](https://github.com/tattooday/quant-trading) Python quantitative trading strategies including MACD, Pair Trading, Heikin-Ashi, London Breakout, Awesome, Dual Thrust, Parabolic SAR, Bollinger Bands, RSI, Pattern Recognition, CTA, Monte Carlo
