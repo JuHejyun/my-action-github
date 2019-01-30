@@ -93,7 +93,7 @@
 - [zhangyaowu/CN-Chrome-DevTools](https://github.com/zhangyaowu/CN-Chrome-DevTools) Chrome开发者工具中文手册
 - [houshanren/hangzhou_house_knowledge](https://github.com/houshanren/hangzhou_house_knowledge) 2017年买房经历总结出来的买房购房知识分享给大家，希望对大家有所帮助。买房不易，且买且珍惜。Sharing the knowledge of buy an own house that according to the experience at hangzhou in 2017 to all the people. It's not easy to buy a own house, so I hope that it would be useful to everyone.
 - [wjpdeveloper/my-action-github](https://github.com/wjpdeveloper/my-action-github) 此处列出我关于 github 的使用实践及我发现的觉得不错的资源。
-
+- [aylei/interview](https://github.com/aylei/interview) 写在19年初的后端社招面试经历
 
 
 
