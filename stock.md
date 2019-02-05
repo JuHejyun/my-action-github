@@ -19,6 +19,11 @@
 - FB,AMZN,NFLX,GOOGL,AAPL,MSFT,TSLA,BA,BABA,BIDU,TSM,NVDA
 
       https://stockcharts.com/freecharts/candleglance.html?FB,AMZN,NFLX,GOOGL,AAPL,MSFT,TSLA,BA,BABA,BIDU,TSM,NVDA|B|C20|0
+   
+## Market internals
+- IGV,FDN,SMH,XLC
+
+      https://stockcharts.com/freecharts/candleglance.html?IGV,FDN,SMH,XLC|B|C20|0
 
 ## 黄金石油天然气恐慌黑天鹅
 - $SPX,$COMPQ,$INDU,$RUT,$GOLD,,$USD,$WTIC,$NATGAS,$VIX,$SKEW,$NYMO,$NAMO
