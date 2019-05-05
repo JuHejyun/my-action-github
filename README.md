@@ -29,6 +29,7 @@
 - [soulteary/Home-Network-Note](https://github.com/soulteary/Home-Network-Note) construction Under Construction construction 记录搭建家用兼顾学习和娱乐网络环境的一些事情，以及折腾过的一些硬件的小经验。
 - [andluo90/spider_tianya](https://github.com/andluo90/spider_tianya) 爬取天涯主贴和楼主评论最终生成一个word文档
 - [hyperapp/hyperapp](https://github.com/hyperapp/hyperapp) 1 kB JavaScript micro-framework for building web applications ios上监控linux服务器 https://www.hyperapp.fun/zh/
+- [lijialong1314/JDUnionAPI](https://github.com/lijialong1314/JDUnionAPI) 京东联盟高级权限API接口项目，基于Workerman开发 https://www.coderdoc.cn/jdapi
 
 # 北京医院挂号
 - [iBreaker/bjguahao](https://github.com/iBreaker/bjguahao) 北京市预约挂号统一平台挂号小助手
