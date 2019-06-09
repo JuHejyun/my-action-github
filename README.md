@@ -96,6 +96,7 @@
 - [wjpdeveloper/my-action-github](https://github.com/wjpdeveloper/my-action-github) 此处列出我关于 github 的使用实践及我发现的觉得不错的资源。
 - [aylei/interview](https://github.com/aylei/interview) 写在19年初的后端社招面试经历
 - [mr-likar/DeepWeb](https://github.com/mr-likar/DeepWeb) 暗网网址大全TOR
+- [geekcompany/ResumeSample](https://github.com/geekcompany/ResumeSample) 程序员简历模板系列。
 
 
 
