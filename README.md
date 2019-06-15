@@ -97,6 +97,8 @@
 - [aylei/interview](https://github.com/aylei/interview) 写在19年初的后端社招面试经历
 - [mr-likar/DeepWeb](https://github.com/mr-likar/DeepWeb) 暗网网址大全TOR
 - [geekcompany/ResumeSample](https://github.com/geekcompany/ResumeSample) 程序员简历模板系列。
+- [hijiangtao/resume](https://github.com/hijiangtao/resume) 个人中文简历 Latex 源码
+- [dyweb/awesome-resume-for-chinese](https://github.com/dyweb/awesome-resume-for-chinese) 适合中文的简历模板收集（LaTeX，HTML/JS and so on）
 
 
 
