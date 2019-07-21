@@ -13,6 +13,9 @@
 - [0xE8551CCB/ms-rdp-nat-traverse](https://github.com/0xE8551CCB/ms-rdp-nat-traverse) 微软远程桌面内网穿透助手。 
 - [myoss/profile](https://github.com/myoss/profile) Mybatis Plugin插件安装破解及使用,https://blog.csdn.net/u011410529/article/details/54098067
 - [Mapaler/FastCopy-M](https://github.com/Mapaler/FastCopy-M) FastCopy-Multilanguage，FastCopy完整支持多国语言版
+- [tonsky/FiraCode](https://github.com/tonsky/FiraCode) Monospaced font with programming ligatures idea字体
+- [ytdl-org/youtube-dl](https://github.com/ytdl-org/youtube-dl) Command-line program to download videos from YouTube.com and other video sites youtube下载工具
+- [soimort/you-get](https://github.com/soimort/you-get) Dumb downloader that scrapes the web 视频下载工具
 
 
 # 有意思的项目
