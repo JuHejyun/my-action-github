@@ -81,10 +81,6 @@
 
 
 
-# 量化平台
-- [vnpy/vnpy](https://github.com/vnpy/vnpy) 基于python的开源量化交易平台开发框架 http://www.vnpy.org
-
-
 
 # 学习
 - [younghz/Markdown](https://github.com/younghz/Markdown) Markdown 基本语法。
