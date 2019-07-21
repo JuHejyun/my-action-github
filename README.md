@@ -100,6 +100,7 @@
 - [geekcompany/ResumeSample](https://github.com/geekcompany/ResumeSample) 程序员简历模板系列。
 - [hijiangtao/resume](https://github.com/hijiangtao/resume) 个人中文简历 Latex 源码
 - [dyweb/awesome-resume-for-chinese](https://github.com/dyweb/awesome-resume-for-chinese) 适合中文的简历模板收集（LaTeX，HTML/JS and so on）
+- [questionlin/design-patterns-for-humans](https://github.com/questionlin/design-patterns-for-humans) Design Patterns for Humans™ - An ultra-simplified explanation 设计模式
 
 
 
