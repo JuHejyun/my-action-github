@@ -26,6 +26,7 @@
 - [yugandhargangu/JspMyAdmin2](https://github.com/yugandhargangu/JspMyAdmin2) JspMyAdmin 2 - A Java Web tool for MySql database administration mysql 管理平台
 - [littlecodersh/ItChat](https://github.com/littlecodersh/ItChat) A complete and graceful API for Wechat. 微信个人号接口、微信机器人及命令行微信，三十行即可自定义个人号机器人。
 - [Urinx/WeixinBot](https://github.com/Urinx/WeixinBot) 网页版微信API，包含终端版微信及微信机器人
+- [TonyChen56/WeChatRobot](https://github.com/TonyChen56/WeChatRobot) PC版微信机器人
 - [bitdust/Douban2Piratebay](https://github.com/bitdust/Douban2Piratebay) 在豆瓣电影页面里添加一个指向海盗湾的链接
 - [shokai/theta-viewer.js](https://github.com/shokai/theta-viewer.js) 360全景
 - [comdan66/ThetaS](https://github.com/comdan66/ThetaS) 搭配 Ricoh Theta S 記錄環景、全景、360度、小星球(Stereographics Projection) 的個人全景相簿！
