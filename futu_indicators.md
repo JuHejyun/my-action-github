@@ -125,5 +125,32 @@
 
 
 
+##BCH
+- []()
+
+###参数
+
+      0<P1<1000 def=13
+      0<P2<1000 def=26
+      0<P3<1000 def=55
+      0<P4<1000 def=110
+      0<SD<120 def=56
+      0<WIDTH<100 def=2
+
+###代码
+
+      EMA13:EMA(CLOSE,P1),COLORFF8D1E;
+      EMA26:EMA(CLOSE,P2),COLOR0CAEE6;
+      MA50:MA(CLOSE,P3),COLOR954FFF;
+      MA200:MA(CLOSE,P4),LINETHICK3,COLOR808080;
+      
+      
+      DIS:=STDP(CLOSE,SD);
+      MID:=MA(CLOSE,SD);
+      UPPER:MID+WIDTH*DIS,DOTLINE,COLORFFC90E;
+      LOWER:MID-WIDTH*DIS,DOTLINE, COLORFFC90E;
+
+
+
 
 
