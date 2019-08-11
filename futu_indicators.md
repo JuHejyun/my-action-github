@@ -161,7 +161,7 @@
       0<P2<1000 def=13
       0<P3<1000 def=21
       0<P4<1000 def=34
-      0<P4<1000 def=55
+      0<P5<1000 def=55
 
 
 ###代码
@@ -171,6 +171,35 @@
       EMA21:EMA(CLOSE,P3),COLORE970DC;
       EMA34:EMA(CLOSE,P4),COLOR0080FF;
       EMA55:EMA(CLOSE,P5),COLOR22C57E;
+
+
+
+
+##BCD
+- []()
+
+###参数
+
+      0<P1<1000 def=8
+      0<P2<1000 def=20
+      0<P3<1000 def=50
+      0<P4<1000 def=200
+      0<SD<120 def=56
+      0<WIDTH<100 def=2
+
+
+###代码
+      
+      EMA8:EMA(CLOSE,P1),COLORFF8D1E;
+      EMA20:EMA(CLOSE,P2),COLOR0CAEE6;
+      MA50:MA(CLOSE,P3),COLOR954FFF;
+      MA200:MA(CLOSE,P4),LINETHICK3,COLOR808080;
+      
+      
+      DIS:=STDP(CLOSE,SD);
+      MID:=MA(CLOSE,SD);
+      UPPER:MID+WIDTH*DIS,DOTLINE,COLORFFC90E;
+      LOWER:MID-WIDTH*DIS,DOTLINE, COLORFFC90E;
 
 
 
