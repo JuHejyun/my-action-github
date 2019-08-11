@@ -104,3 +104,26 @@
 
 
 
+##指数平滑移动平均线(MACD)
+- [MACD (Moving Average Convergence/Divergence Oscillator)](https://school.stockcharts.com/doku.php?id=technical_indicators:moving_average_convergence_divergence_macd)
+
+###参数
+
+      2<SHORT<200 def=12
+      2<LONG<200 def=26
+      2<M<200 def=9
+
+###代码
+
+      DIF:EMA(CLOSE,SHORT)-EMA(CLOSE,LONG),COLORFF8D1E;
+      DEA:EMA(DIF,M),COLOR0CAEE6;
+      MACD:=(DIF-DEA)*2;
+      STICKLINE(MACD>0 AND MACD>=REF(MACD,1),0,MACD,0.2,0),COLOR45B97C;
+      STICKLINE(MACD>0 AND MACD<REF(MACD,1),0,MACD,0.2,0),COLOR005831;
+      STICKLINE(MACD<0 AND MACD>=REF(MACD,1),0,MACD,0.2,0),COLOR54211D;
+      STICKLINE(MACD<0 AND MACD<REF(MACD,1),0,MACD,0.2,0),COLORF15B6C;
+
+
+
+
+
