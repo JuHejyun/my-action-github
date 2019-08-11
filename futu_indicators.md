@@ -75,3 +75,32 @@
       AY1:=(BACKSET(TJ21>0,9)  OR  BACKSET(TJ23>0,NT0))*NT0;
       DRAWNUMBER(AY1>0,L-(H-L)*0.2,AY1),COLORFF00FF;
       DRAWTEXT(NT0=9,L-(H-L)*0.2,'9'),COLORGREEN;
+
+
+
+
+##相对强弱指标(RSI5)
+- [Relative Strength Index (RSI)](https://school.stockcharts.com/doku.php?id=technical_indicators:relative_strength_index_rsi)
+
+###参数
+
+      2<P1<120 def=5
+
+###代码
+
+      LC:=REF(CLOSE,1);
+      TEMP1:=MAX(CLOSE-LC,0);
+      TEMP2:=ABS(CLOSE-LC);
+      RSI5:SMA(TEMP1,P1,1)/SMA(TEMP2,P1,1)*100,COLORFF8D1E;
+      FILLRGN(RSI5,30,RSI5<=30),COLORGREEN;
+      FILLRGN(70,RSI5,RSI5>=70),COLORRED;
+      
+      LINE1:70,COLORLIRED,DOTLINE;
+      LINE2:80,COLORRED,DOTLINE;
+      LINE3:30,COLORLIGREEN,DOTLINE;
+      LINE4:20,COLORGREEN,DOTLINE;
+      LINE5:50,COLORWHITE,DOTLINE;
+
+
+
+
