@@ -6,3 +6,4 @@
 - [5an1ty/BitBot](https://github.com/5an1ty/BitBot) BitBot is a Crypto-Currency trading bot and backtesting platform written in Node.JS
 - [zhangzhixin00/Robot](https://github.com/zhangzhixin00/Robot) 脉脉上开源的btc量化交易
 - [vnpy/vnpy](https://github.com/vnpy/vnpy) 基于python的开源量化交易平台开发框架 http://www.vnpy.org
+- [sun0x00/redtorch](https://github.com/sun0x00/redtorch) Java开源量化交易开发框架 http://redtorch.io/
