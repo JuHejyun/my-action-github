@@ -73,6 +73,7 @@
 - [shadowsocks/shadowsocks](https://github.com/shadowsocks/shadowsocks) shadowsocks代理
 - [shadowsocks / shadowsocks-windows](https://github.com/shadowsocks/shadowsocks-windows) shadowsocks代理windows客户端
 - [shadowsocks/libQtShadowsocks](https://github.com/shadowsocks/libQtShadowsocks) A lightweight and ultra-fast shadowsocks library written in C++14 with Qt framework shadowsocks windows 服务端
+- [shadowsocksrr/shadowsocksr-csharp](https://github.com/shadowsocksrr/shadowsocksr-csharp) shadowsocksrr
 - [v2ray/v2ray-core](https://github.com/v2ray/v2ray-core) A platform for building proxies to bypass network restrictions. 
 - [racaljk/hosts](https://github.com/racaljk/hosts) 最新可用的google hosts文件。国内镜像 https://coding.net/u/scaffrey/p/hosts/git
 - [gfwlist/gfwlist](https://github.com/gfwlist/gfwlist) The one and only one gfwlist here
