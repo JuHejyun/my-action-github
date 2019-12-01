@@ -35,6 +35,7 @@
 - [hyperapp/hyperapp](https://github.com/hyperapp/hyperapp) 1 kB JavaScript micro-framework for building web applications ios上监控linux服务器 https://www.hyperapp.fun/zh/
 - [lijialong1314/JDUnionAPI](https://github.com/lijialong1314/JDUnionAPI) 京东联盟高级权限API接口项目，基于Workerman开发 https://www.coderdoc.cn/jdapi
 - [huiyadanli/RevokeMsgPatcher](https://github.com/huiyadanli/RevokeMsgPatcher)  A hex editor for WeChat/QQ/TIM - PC版微信/QQ/TIM防撤回补丁（我已经看到了，撤回也没用了）
+- [zhaojunlike/wechat-pc-hook-ws](https://github.com/zhaojunlike/wechat-pc-hook-ws)  微信PcHooker websocket api
 
 # 北京医院挂号
 - [iBreaker/bjguahao](https://github.com/iBreaker/bjguahao) 北京市预约挂号统一平台挂号小助手
