@@ -1,5 +1,4 @@
 # soft
-- [TKkk-iOSer / WeChatPlugin-MacOS](https://github.com/TKkk-iOSer/WeChatPlugin-MacOS) 一款功能强大的 macOS 版微信小助手 v1.7.1 / A powerful assistant for wechat macOS
 - [KhaosT/tb3-enabler](https://github.com/KhaosT/tb3-enabler) Enable Thunderbolt 3 for unsupported peripherals on macOS;mac破解使用第三方扩展坞
 - [cute/SketchI18N](https://github.com/cute/SketchI18N) SketchI18N语言插件
 - [symless/synergy-core](https://github.com/symless/synergy-core) 鼠标共享
@@ -19,14 +18,10 @@
 
 
 # 有意思的项目
-- [geeeeeeeeek/WeChatLuckyMoney](https://github.com/geeeeeeeeek/WeChatLuckyMoney) money_with_wings WeChat's lucky money helper (微信抢红包插件) by Zhongyi Tong. An Android app that helps you snatch red packets in WeChat groups.
 - [dianping/cat](https://github.com/dianping/cat) CAT基于Java开发的实时应用监控平台，包括实时应用监控，业务监控
 - [knightliao/disconf](https://github.com/knightliao/disconf) Distributed Configuration Management Platform(分布式配置管理平台) http://disconf.readthedocs.io/
 - [mauersu/redis-admin](https://github.com/mauersu/redis-admin) redis client tool,redis web client,redis web ui redis 管理平台
 - [yugandhargangu/JspMyAdmin2](https://github.com/yugandhargangu/JspMyAdmin2) JspMyAdmin 2 - A Java Web tool for MySql database administration mysql 管理平台
-- [littlecodersh/ItChat](https://github.com/littlecodersh/ItChat) A complete and graceful API for Wechat. 微信个人号接口、微信机器人及命令行微信，三十行即可自定义个人号机器人。
-- [Urinx/WeixinBot](https://github.com/Urinx/WeixinBot) 网页版微信API，包含终端版微信及微信机器人
-- [TonyChen56/WeChatRobot](https://github.com/TonyChen56/WeChatRobot) PC版微信机器人
 - [bitdust/Douban2Piratebay](https://github.com/bitdust/Douban2Piratebay) 在豆瓣电影页面里添加一个指向海盗湾的链接
 - [shokai/theta-viewer.js](https://github.com/shokai/theta-viewer.js) 360全景
 - [comdan66/ThetaS](https://github.com/comdan66/ThetaS) 搭配 Ricoh Theta S 記錄環景、全景、360度、小星球(Stereographics Projection) 的個人全景相簿！
@@ -34,8 +29,6 @@
 - [andluo90/spider_tianya](https://github.com/andluo90/spider_tianya) 爬取天涯主贴和楼主评论最终生成一个word文档
 - [hyperapp/hyperapp](https://github.com/hyperapp/hyperapp) 1 kB JavaScript micro-framework for building web applications ios上监控linux服务器 https://www.hyperapp.fun/zh/
 - [lijialong1314/JDUnionAPI](https://github.com/lijialong1314/JDUnionAPI) 京东联盟高级权限API接口项目，基于Workerman开发 https://www.coderdoc.cn/jdapi
-- [huiyadanli/RevokeMsgPatcher](https://github.com/huiyadanli/RevokeMsgPatcher)  A hex editor for WeChat/QQ/TIM - PC版微信/QQ/TIM防撤回补丁（我已经看到了，撤回也没用了）
-- [zhaojunlike/wechat-pc-hook-ws](https://github.com/zhaojunlike/wechat-pc-hook-ws)  微信PcHooker websocket api
 
 # 北京医院挂号
 - [iBreaker/bjguahao](https://github.com/iBreaker/bjguahao) 北京市预约挂号统一平台挂号小助手
