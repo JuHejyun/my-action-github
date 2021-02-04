@@ -94,3 +94,7 @@
       https://stockcharts.com/freecharts/candleglance.html?DIS,DE,CAT,DE,JWN|B|C20|
 
       https://stockcharts.com/freecharts/candleglance.html?WB,ETR,UAA,SPG,RMD,REGN,REG|B|C20|
+
+## LoneCapital
+
+- [bankrollhunter](https://github.com/bankrollhunter) mostly inspired by 雷公
